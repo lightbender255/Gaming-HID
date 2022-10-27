@@ -1,0 +1,5 @@
+{
+    "sketch": "Steering_and_Pedals\\Steering_and_Pedals.ino",
+    "board": "arduino:avr:leonardo",
+    "port": "COM6"
+}
